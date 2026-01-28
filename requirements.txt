@@ -1,0 +1,7 @@
+streamlit
+pandas
+requests
+pdfplumber
+PyPDF2
+python-pptx
+openpyxl
